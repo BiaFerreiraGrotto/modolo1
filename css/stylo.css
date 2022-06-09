@@ -1,0 +1,24 @@
+
+
+body{ 
+
+    background-image: url("../img/00000.jpg");
+}
+
+h2{color: rgb(247, 242, 242);}
+  
+h3{color: rgb(247, 242, 242);}
+
+h4{color: rgb(247, 242, 242);}
+
+table{ 
+    background-color: rgba(228, 92, 92, 0.63);
+    margin: auto;
+    text-align: center;
+    width: 600px;}
+table tr td{padding: 10px; }
+
+
+
+
+
